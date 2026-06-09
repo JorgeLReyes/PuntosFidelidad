@@ -1,0 +1,6 @@
+{
+  "name": "Puntos de Clientes",
+  "description": "Una aplicación simple de fidelización para registrar clientes, asignar clasificaciones y escuelas, y controlar sus compras totales, compras mensuales y puntos acumulados directamente en Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
